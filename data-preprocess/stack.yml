@@ -11,7 +11,7 @@ functions:
   time-parser-ci:
     lang: python3
     handler: ./time-parser
-    image: hank6086/time-parser-ci:0.0.1
+    image: hank9820/time-parser-ci:0.0.1
 
   # data-clean:
   #   lang: python3
